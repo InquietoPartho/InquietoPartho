@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://inquietopartho.github.io/My-Portfolio/](https://inquietopartho.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Python, Data Structure and Algorithms**
+- 💬 Ask me about **Machine Learning, Data Structure and Algorithms**
 
 - 📫 How to reach me **pijushkantiroy2040@gmail.com**
 
