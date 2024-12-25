@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/c/bits & bytes with partho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bits & bytes with partho" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pijush2040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pijush2040" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/thunderbold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thunderbold" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thunderbold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thunderbold" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Bit_Backlogger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thunderbold" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
